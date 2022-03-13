@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("hallo git!");
         System.out.println("卡卡罗特");
         System.out.println("孙悟天");
+        System.out.println("贝吉塔");
     }
 }
