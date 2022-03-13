@@ -6,5 +6,6 @@ public class gitTest {
         System.out.println("卡卡罗特");
         System.out.println("孙悟天");
         System.out.println("特兰克斯");
+        System.out.println("贝吉塔");
     }
 }
